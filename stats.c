@@ -9,13 +9,18 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.c
+ * @brief Program analyzes an array of data and prints out data
+ * and analytics of it.
+ * 
+ * Analyzes an array of unsigned char data items and reports 
+ * analytics on the maximum, minimum, mean, and median of the data set. 
+ * Data set is reordered from large to small. All statistics is rounded 
+ * down to the nearest integer. After analysis and sorting is done, 
+ * data is printed to the screen in nicely formatted presentation. 
  *
- * <Add Extended Description Here>
- *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Vladimir Smagin
+ * @date 07/18/2019
  *
  */
 
