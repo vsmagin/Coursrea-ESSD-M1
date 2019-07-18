@@ -10,12 +10,13 @@
  *****************************************************************************/
 /**
  * @file stats.h
- * @brief <Add Brief Description Here >
+ * @brief Header file for stats.c
  *
- * <Add Extended Description Here>
+ * Header file include declarations and documentation for 
+ * the functions from the stats.c file.
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Vladimir Smagin
+ * @date 07/18/2019
  *
  */
 #ifndef __STATS_H__
